@@ -1,5 +1,9 @@
 # BuyerForeSight User Dashboard
 
+## Live Demo
+
+https://buyer-fore-sight-frontend-assignmen-flame.vercel.app/
+
 ## Features
 
 User Directory Dashboard built with React.
